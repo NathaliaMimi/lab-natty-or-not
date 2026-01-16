@@ -1,51 +1,32 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+Título do Projeto: Talkin' Code: O Podcast que não existe 🎙️
+📒 Descrição
+Um episódio de podcast de aproximadamente 1 minuto sobre o futuro do trabalho com IAs Generativas. O objetivo é utilizar um tom casual, humano e com gírias naturais, desafiando o ouvinte a perceber que tanto a voz quanto o texto foram 100% gerados por máquinas.
 
-## 🚀 Introdução
+🤖 Tecnologias Utilizadas
+Gemini: Para roteirização e criação de personas.
 
-> Woooow! Look at this 👀
+ElevenLabs: Para clonagem de voz e síntese de fala com entonação emocional.
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Adobe Podcast (Enhance): Para acabamento de áudio com qualidade de estúdio profissional.
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+Midjourney: Para criação da arte de capa com estética Cyberpunk Minimalist.
 
-### Objetivos
+Gems do Gemini: Utilizadas como consultoras de "humanização" para o projeto.
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+🧐 Processo de Criação
+Roteiro: Planejado para usar Natural Language via Gemini, incluindo hesitações como "hum...", "tipo assim" e pausas dramáticas.
 
-### Template
+Voz: Seleção no ElevenLabs de timbres com leve rouquidão para uma percepção mais "natty" (natural).
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Mixagem: Plano de utilizar o Adobe Enhance para adicionar textura de microfone condensador.
 
-## 📒 Descrição
-Breve descrição do seu projeto
+Capa: Briefing definido para gerar uma imagem em cores pastéis e estética limpa no Midjourney.
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+🚀 Resultados
+🛠️ EM CONSTRUÇÃO 🛠️
+Áudio: [Aguardando Geração/Upload]
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Capa: [Aguardando Geração/Upload]
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+O objetivo final é entregar um conteúdo que passe facilmente por um podcast gravado de forma orgânica por um entusiasta de tecnologia.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
